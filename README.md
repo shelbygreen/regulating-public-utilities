@@ -2,7 +2,7 @@
 - 12-Week Webinar on Legal Fundamentals <br>
 - Taught by Scott Hempling (shempling@scotthemplinglaw.com) <br>
 - Mondays, Jan. 10–Mar. 28; 7.00-8.30 pm EST <br>
-- Access course materials via [NARUC Portal](https://maxxwww.naruc.org/forms/cas/login)
+- Access course materials via [NARUC Portal](https://nrri.prosperitylms.com/req/NRRI/_student/)
 
 ### Reading Material (from syllabus):
 Week 1: Regulation's Purposes, Dimensions,and Professions [Jan.10]
