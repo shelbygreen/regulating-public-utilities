@@ -11,10 +11,9 @@ Week 1: Regulation's Purposes, Dimensions,and Professions [Jan.10]
 3. Take note of the document called “Hempling Legal Book:  Table of Contents Diagrammed.”
 4. Preside or Lead?  Read Essays 1-4, 53.
 
-Week 2:
+Week 2 (only 1 and 2 are required reading):
 1. Regulating Public Utility Performance, Ch. 2 
-2. Preside or Lead, Essays 6, 10, 11, 12, 49 
-Optional
+2. Preside or Lead, Essays 6, 10, 11, 12, 49  
 3. Munn v. Illinois, 94 U.S. 113 (1877) (consent to regulation)
 4. Application of Houston Lighting and Power, 50 PUR4th 157 (1982) (quality of service)
 5. Narragansett Electric Company, 65 PUR4th 198 (1985) (eminent domain)
