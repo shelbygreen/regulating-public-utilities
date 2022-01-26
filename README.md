@@ -29,3 +29,8 @@
 4. Pennsylvania statute on retail competition in electricity [highlighted provisions]
 5. Hempling article on stranded cost
 
+#### Week 4: 
+1. **Regulating Public Utility Performance, Ch. 4**
+2. **Preside or Lead, Essays 26, 27, 28, 29, 30**
+3. Verizon v. Federal Communications Commission, No. 11-1355 (Jan. 15, 2014) (discussing "common carrier" obligation in the context of broadband access) (read opening 5 paragraphs only)
+4. [Ohio statute on corporate separation](http://codes.ohio.gov/orc/4928.17)
